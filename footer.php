@@ -16,16 +16,9 @@
 					<ul class="footer_ul2_amrc">
 						<li>
 							<a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a>
-							<p>Lorem Ipsum is simply dummy printing...<a href="#">https://www.lipsum.com/</a></p>
+							<p>For more details...<a href="#">https://www.twitter.com/chinthaka</a></p>
 						</li>
-						<li>
-							<a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a>
-							<p>Lorem Ipsum is simply dummy printing...<a href="#">https://www.lipsum.com/</a></p>
-						</li>
-						<li>
-							<a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a>
-							<p>Lorem Ipsum is simply dummy printing...<a href="#">https://www.lipsum.com/</a></p>
-						</li>
+						
 					</ul>
 					<!--footer_ul2_amrc ends here-->
 				</div>

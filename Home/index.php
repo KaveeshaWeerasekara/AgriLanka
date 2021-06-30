@@ -63,17 +63,18 @@
         <div class="about-main">
             <div class="row">
                <div class="col-lg-6">
-                  <h2>Welcome to N & LW Lawn Care</h2>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                  <h5>Our smart approach</h5>
+               <br><br>
+                  <h2>WELCOME TO AGRI LANKA... </h2>
+                  <p> Our aim is to provide you the best services regarding our Institution. </p>
+                  <br><h5> We are providing, </h5>
                   <ul>
-                     <li>Sed at tellus eu quam posuere mattis.</li>
-                     <li>Phasellus quis erat et enim laoreet posuere ac porttitor ipsum.</li>
-                     <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                     <li>Duis porttitor odio pellentesque mollis vulputate.</li>
-                     <li>Quisque ac eros non ex hendrerit vehicula.</li>
+                     <li>Update about ongoing activities.   </li>
+                     <li>Information about  seeds and other services available. </li>
+                     <li>Find a better price for your harvest </li>
+                     <li>Manage online delivery process of  the fruits and vegetables in Your area. </li>
+                     
                   </ul>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+                  <p>And we are here to answer your questions to support You anytime</p>
                </div>
                <div class="col-lg-6">
                   <img class="img-fluid rounded" src="images/about-img.jpg" alt="" />
@@ -88,7 +89,7 @@
                <div class="col-lg-4 col-sm-6 portfolio-item">
                   <div class="card h-100">
                      <div class="card-img">
-                        <a href="#">
+                        <a href="http://localhost/agrilanka/form/display.php">
                            <img class="card-img-top" src="images/seeds.jpg" height="300px" width="200px" alt="" />
                            <div class="overlay"><i class="fas fa-arrows-alt"></i></div>
                         </a>
@@ -103,7 +104,7 @@
                <div class="col-lg-4 col-sm-6 portfolio-item">
                   <div class="card h-100">
                      <div class="card-img">
-                        <a href="#">
+                        <a href="http://localhost/agrilanka/form/plants_display.php">
                            <img class="card-img-top" src="images/plants.jpg" height="300px" width="200px" alt="" />
                            <div class="overlay"><i class="fas fa-arrows-alt"></i></div>
                         </a>
@@ -118,7 +119,7 @@
                <div class="col-lg-4 col-sm-6 portfolio-item">
                   <div class="card h-100">
                      <div class="card-img">
-                        <a href="#">
+                        <a href="http://localhost/agrilanka/form/fertilizer_display.php">
                            <img class="card-img-top" src="images/fertilizers.jpg" height="300px" width="200px" alt="" />
                            <div class="overlay"><i class="fas fa-arrows-alt"></i></div>
                         </a>
